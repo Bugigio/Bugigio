@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+- I'm currently a Computer Science student at the University of Udine in Italy🍕
+- I'm aspiring to become a Cybersecurity Expert
 <!--
 **Bugigio/Bugigio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
